@@ -1,3 +1,6 @@
+[AWS ASSIGNMENT
+](https://awsacademy.instructure.com/courses/145177/modules/items/14046101)
+
 ### **Phase 1: The Foundation (VPC)**
 *Goal: Build the network where everything lives.*
 
